@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "array_helpers.c"
+#include "array_helpers.h"
 
 /* Maximum allowed length of the array */
 #define MAX_SIZE 100000
